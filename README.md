@@ -1,4 +1,4 @@
-# Commands for working on Digital Ocean's VPS for hosting websites
+# Commands for working on DigitalOcean's VPS for hosting websites
 	* apache2ctl configtest               # To test apache configs
 	* service apache2 restart             # To restart the apache service
 	* a2dissite 000-default.conf          # To disable any config
