@@ -10,4 +10,4 @@
 	* ufw app list                        # To get list of apps
 	* ufw enable                          # To enable firewall
 	* sudo apt install apache2            # To install apache server
-        * cd /var/log/apache2		      # Directory to get the access and error logs
+ 	* cd /var/log/apache2		      # Directory to get the access and error logs
