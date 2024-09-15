@@ -3,7 +3,7 @@
 	* service apache2 restart             #To restart the apache service
 	* a2dissite 000-default.conf          #To disable any config
 	* a2ensite amit-ojha.conf             #To activate any config
-	* cd /etc/apache2/sites-available/    #To list all available configs
+	* cd /etc/apache2/sites-available/    #Directory where per sites virtual hosts can be stored
 	* cd /var/www                         #All websites should be present here
 	* ufw app status                      #To check firewall status
 	* ufw allow in "Apache Full"          #To allow any app to pass through firewall
